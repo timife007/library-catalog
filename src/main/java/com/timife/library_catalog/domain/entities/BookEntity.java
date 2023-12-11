@@ -7,16 +7,16 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.NoArgsConstructor;
 
-@Builder
-@Entity
-@Table(name = "books")
-@NoArgsConstructor
-@AllArgsConstructor
-public class BookEntity {
-    @Id
-    private String isbn;
-    private String title;
-
-    private String author;
-
-}
+//@Builder
+//@Entity
+//@Table(name = "books")
+//@NoArgsConstructor
+//@AllArgsConstructor
+//public class BookEntity {
+//    @Id
+//    private String isbn;
+//    private String title;
+//
+//    private String author;
+//
+//}

@@ -7,15 +7,15 @@ import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.NoArgsConstructor;
 
-@Builder
-@Entity
-@Table
-@NoArgsConstructor
-@AllArgsConstructor
-public class IssueEntity {
-    @Id
-    private String id;
-
-    private String date;
-
-}
+//@Builder
+//@Entity
+//@Table
+//@NoArgsConstructor
+//@AllArgsConstructor
+//public class IssueEntity {
+//    @Id
+//    private String id;
+//
+//    private String date;
+//
+//}
